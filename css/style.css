@@ -252,6 +252,28 @@ html {
     }
 }
 
+.bx-cloud-rain::before{
+    color: blue;
+    font-size: 1.4em;
+    vertical-align: sub;
+    margin-left: 0.2em;
+}
+.bx-data::before{
+    color: rgb(145, 20, 83);
+    font-size: 1.4em;
+    vertical-align: sub;
+    margin-left: 0.2em;
+}
+.bx-home::before{
+    color: red;
+    font-size: 1.4em;
+    vertical-align: sub;
+    margin-left: 0.2em;
+}
+
+
+
+
 /* ---------------------Nav-------------------------- */
 
 
